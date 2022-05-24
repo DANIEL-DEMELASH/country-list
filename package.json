@@ -1,0 +1,26 @@
+{
+  "name": "country-list",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.6.5",
+    "@vue/apollo-composable": "^4.0.0-alpha.17",
+    "@vue/apollo-util": "^4.0.0-alpha.17",
+    "autoprefixer": "^10.4.7",
+    "graphql": "^16.5.0",
+    "graphql-tag": "^2.12.6",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
