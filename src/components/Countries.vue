@@ -50,7 +50,7 @@
             </span>
         </span>
         <span v-else>
-           <p>{{ country.name }} is stateless nation</p>
+           <!-- <p></p> -->
         </span>
     </p>
 </template>
